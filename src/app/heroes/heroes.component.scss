@@ -59,6 +59,7 @@
     line-height: 1em;
     margin-right: .9em;
     border-radius: 5px 0 0 5px;
+    align-self: center;
   }
   
   .heroes .badgeid {
@@ -75,4 +76,8 @@
 
   .heroes .name {
     align-self: center;
+    color: black;
+    background-color: #0e5bad;
+    display: inline-block;
+    font-size:medium;
   }
