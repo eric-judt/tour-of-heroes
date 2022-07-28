@@ -6,6 +6,7 @@ label {
 input {
   font-size: 1em;
   padding: .5rem;
+  background-color: rgb(25, 223, 108);
 }
 button {
   margin-top: 20px;
@@ -16,10 +17,11 @@ button {
   font-size: 1rem;
 }
 button:hover {
-  background-color: #cfd8dc;
+  background-color: #3589ad;
 }
 button:disabled {
-  background-color: #eee;
+  background-color: rgba(238, 238, 238, 0.432);
   color: #ccc;
   cursor: auto;
 }
+
